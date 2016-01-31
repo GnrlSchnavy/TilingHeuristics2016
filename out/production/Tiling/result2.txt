@@ -1,0 +1,390 @@
+15-0-0.tiles
+Total execution time: 3093ms
+Placements: 1642
+Undoes: 1622
+Total: 3264
+
+15-0-1.tiles
+Total execution time: 1742ms
+Placements: 1630
+Undoes: 1611
+Total: 3241
+
+15-0-2.tiles
+Total execution time: 2544ms
+Placements: 2471
+Undoes: 2453
+Total: 4924
+
+15-0-3.tiles
+Total execution time: 878ms
+Placements: 1034
+Undoes: 1018
+Total: 2052
+
+15-0-4.tiles
+15-1-0.tiles
+15-1-1.tiles
+15-1-2.tiles
+Total execution time: 1262ms
+Placements: 1068
+Undoes: 1052
+Total: 2120
+
+15-1-3.tiles
+Total execution time: 2024ms
+Placements: 1726
+Undoes: 1706
+Total: 3432
+
+15-1-4.tiles
+15-2-0.tiles
+Total execution time: 3320ms
+Placements: 1755
+Undoes: 1735
+Total: 3490
+
+15-2-1.tiles
+15-2-2.tiles
+15-2-3.tiles
+15-2-4.tiles
+Total execution time: 4971ms
+Placements: 4644
+Undoes: 4627
+Total: 9271
+
+15-3-0.tiles
+Total execution time: 1799ms
+Placements: 1076
+Undoes: 1059
+Total: 2135
+
+15-3-1.tiles
+Total execution time: 1118ms
+Placements: 998
+Undoes: 983
+Total: 1981
+
+15-3-2.tiles
+Total execution time: 1207ms
+Placements: 1074
+Undoes: 1059
+Total: 2133
+
+15-3-3.tiles
+Total execution time: 1544ms
+Placements: 1204
+Undoes: 1187
+Total: 2391
+
+15-3-4.tiles
+15-4-0.tiles
+Total execution time: 516ms
+Placements: 535
+Undoes: 523
+Total: 1058
+
+15-4-1.tiles
+Total execution time: 16335ms
+Placements: 17403
+Undoes: 17394
+Total: 34797
+
+15-4-2.tiles
+Total execution time: 754ms
+Placements: 680
+Undoes: 665
+Total: 1345
+
+15-4-3.tiles
+Total execution time: 1189ms
+Placements: 985
+Undoes: 969
+Total: 1954
+
+15-4-4.tiles
+25-0-0.tiles
+Total execution time: 6620ms
+Placements: 4711
+Undoes: 4687
+Total: 9398
+
+25-0-1.tiles
+Total execution time: 7770ms
+Placements: 4748
+Undoes: 4724
+Total: 9472
+
+25-0-2.tiles
+Total execution time: 4816ms
+Placements: 3041
+Undoes: 3015
+Total: 6056
+
+25-0-3.tiles
+25-0-4.tiles
+Total execution time: 5219ms
+Placements: 3435
+Undoes: 3406
+Total: 6841
+
+25-1-0.tiles
+Total execution time: 34200ms
+Placements: 15461
+Undoes: 15432
+Total: 30893
+
+25-1-1.tiles
+25-1-2.tiles
+25-1-3.tiles
+Total execution time: 11894ms
+Placements: 7358
+Undoes: 7331
+Total: 14689
+
+25-1-4.tiles
+Total execution time: 10359ms
+Placements: 6795
+Undoes: 6768
+Total: 13563
+
+25-2-0.tiles
+Total execution time: 4557ms
+Placements: 2827
+Undoes: 2801
+Total: 5628
+
+25-2-1.tiles
+25-2-2.tiles
+Total execution time: 8876ms
+Placements: 4535
+Undoes: 4512
+Total: 9047
+
+25-2-3.tiles
+25-2-4.tiles
+Total execution time: 6335ms
+Placements: 4217
+Undoes: 4197
+Total: 8414
+
+25-3-0.tiles
+25-3-1.tiles
+Total execution time: 3827ms
+Placements: 3113
+Undoes: 3086
+Total: 6199
+
+25-3-2.tiles
+25-3-3.tiles
+Total execution time: 5203ms
+Placements: 3400
+Undoes: 3371
+Total: 6771
+
+25-3-4.tiles
+Total execution time: 12903ms
+Placements: 6458
+Undoes: 6435
+Total: 12893
+
+25-4-0.tiles
+Total execution time: 5317ms
+Placements: 3621
+Undoes: 3596
+Total: 7217
+
+25-4-1.tiles
+25-4-2.tiles
+25-4-3.tiles
+25-4-4.tiles
+35-0-0.tiles
+35-0-1.tiles
+Total execution time: 8953ms
+Placements: 6205
+Undoes: 6169
+Total: 12374
+
+35-0-2.tiles
+35-0-3.tiles
+35-0-4.tiles
+35-1-0.tiles
+Total execution time: 15502ms
+Placements: 6799
+Undoes: 6759
+Total: 13558
+
+35-1-1.tiles
+35-1-2.tiles
+35-1-3.tiles
+35-1-4.tiles
+35-2-0.tiles
+Total execution time: 59814ms
+Placements: 16084
+Undoes: 16044
+Total: 32128
+
+35-2-1.tiles
+35-2-2.tiles
+35-2-3.tiles
+Total execution time: 15712ms
+Placements: 5275
+Undoes: 5240
+Total: 10515
+
+35-2-4.tiles
+35-3-0.tiles
+Total execution time: 14232ms
+Placements: 5769
+Undoes: 5734
+Total: 11503
+
+35-3-1.tiles
+35-3-2.tiles
+Total execution time: 6677ms
+Placements: 4869
+Undoes: 4833
+Total: 9702
+
+35-3-3.tiles
+35-3-4.tiles
+Total execution time: 7802ms
+Placements: 5659
+Undoes: 5622
+Total: 11281
+
+35-4-0.tiles
+35-4-1.tiles
+35-4-2.tiles
+35-4-3.tiles
+35-4-4.tiles
+45-0-0.tiles
+45-0-1.tiles
+45-0-2.tiles
+45-0-3.tiles
+Total execution time: 48510ms
+Placements: 19688
+Undoes: 19648
+Total: 39336
+
+45-0-4.tiles
+45-1-0.tiles
+45-1-1.tiles
+45-1-2.tiles
+45-1-3.tiles
+45-1-4.tiles
+45-2-0.tiles
+Total execution time: 24642ms
+Placements: 12925
+Undoes: 12876
+Total: 25801
+
+45-2-1.tiles
+45-2-2.tiles
+45-2-3.tiles
+Total execution time: 29184ms
+Placements: 13192
+Undoes: 13146
+Total: 26338
+
+45-2-4.tiles
+45-3-0.tiles
+45-3-1.tiles
+Total execution time: 25853ms
+Placements: 9913
+Undoes: 9866
+Total: 19779
+
+45-3-2.tiles
+Total execution time: 17230ms
+Placements: 9380
+Undoes: 9332
+Total: 18712
+
+45-3-3.tiles
+Total execution time: 18887ms
+Placements: 8549
+Undoes: 8504
+Total: 17053
+
+45-3-4.tiles
+45-4-0.tiles
+45-4-1.tiles
+45-4-2.tiles
+45-4-3.tiles
+45-4-4.tiles
+Total execution time: 28731ms
+Placements: 13584
+Undoes: 13534
+Total: 27118
+
+55-0-0.tiles
+Total execution time: 44716ms
+Placements: 15511
+Undoes: 15452
+Total: 30963
+
+55-0-1.tiles
+55-0-2.tiles
+55-0-3.tiles
+Total execution time: 47136ms
+Placements: 15408
+Undoes: 15348
+Total: 30756
+
+55-0-4.tiles
+55-1-0.tiles
+Total execution time: 43519ms
+Placements: 13838
+Undoes: 13783
+Total: 27621
+
+55-1-1.tiles
+55-1-2.tiles
+55-1-3.tiles
+55-1-4.tiles
+55-2-0.tiles
+55-2-1.tiles
+Total execution time: 52327ms
+Placements: 15954
+Undoes: 15895
+Total: 31849
+
+55-2-2.tiles
+55-2-3.tiles
+Total execution time: 67296ms
+Placements: 21268
+Undoes: 21215
+Total: 42483
+
+55-2-4.tiles
+55-3-0.tiles
+Total execution time: 52887ms
+Placements: 15574
+Undoes: 15516
+Total: 31090
+
+55-3-1.tiles
+55-3-2.tiles
+Total execution time: 64283ms
+Placements: 19137
+Undoes: 19083
+Total: 38220
+
+55-3-3.tiles
+55-3-4.tiles
+55-4-0.tiles
+55-4-1.tiles
+55-4-2.tiles
+55-4-3.tiles
+Total execution time: 37454ms
+Placements: 13320
+Undoes: 13263
+Total: 26583
+
+55-4-4.tiles
+Total execution time: 43166ms
+Placements: 15652
+Undoes: 15594
+Total: 31246
+

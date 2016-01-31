@@ -1,0 +1,39 @@
+fill_block(field, tiles)
+  if field.size == 0
+    return true
+    
+  sort tiles by area desc
+  choose first tile
+  try fitting tiles
+    if successful
+      fill_block(field, tiles_without_placed)
+    else
+      next_tile
+    
+
+place_tiles(tiles)
+  
+  sort tiles by area desc
+  choose first tile
+  
+  for each location in possible_locations
+    if placing tile creates new white block (TODO: edgy_block)
+      if fill_block(white_block, tiles_within_bounding_rect)
+        new_set=remove tiles_within_bound_rect
+        place_tiles(new_set)
+    else
+
+    
+    
+    
+    
+place_tiles(tiles)
+  if no tile in tiles -> return true
+  for each tile in tiles
+    if place tile is successful
+      if place tile_without_placed is unsuccessful
+        undo tile
+      else
+        return true
+        
+  return false

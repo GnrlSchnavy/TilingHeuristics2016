@@ -1,0 +1,106 @@
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-0-0.tiles
+Total execution time: 458ms
+Placements: 319
+Undoes: 299
+Total: 618D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-0-1.tiles
+Total execution time: 23ms
+Placements: 19
+Undoes: 0
+Total: 19D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-0-2.tiles
+Total execution time: 11797ms
+Placements: 10421
+Undoes: 10403
+Total: 20824D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-0-3.tiles
+Total execution time: 19ms
+Placements: 16
+Undoes: 0
+Total: 16D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-0-4.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-1-0.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-1-1.tiles
+Total execution time: 180609ms
+Placements: 166908
+Undoes: 166893
+Total: 333801D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-1-2.tiles
+Total execution time: 52672ms
+Placements: 59715
+Undoes: 59699
+Total: 119414D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-1-3.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-1-4.tiles
+Total execution time: 23ms
+Placements: 17
+Undoes: 0
+Total: 17D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-2-0.tiles
+Total execution time: 2746ms
+Placements: 2312
+Undoes: 2292
+Total: 4604D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-2-1.tiles
+Total execution time: 26ms
+Placements: 17
+Undoes: 0
+Total: 17D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-2-2.tiles
+Total execution time: 23ms
+Placements: 18
+Undoes: 0
+Total: 18D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-2-3.tiles
+Total execution time: 21ms
+Placements: 17
+Undoes: 0
+Total: 17D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-2-4.tiles
+Total execution time: 11503ms
+Placements: 13304
+Undoes: 13287
+Total: 26591D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-3-0.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-3-1.tiles
+Total execution time: 3964ms
+Placements: 5604
+Undoes: 5589
+Total: 11193D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-3-2.tiles
+Total execution time: 42ms
+Placements: 31
+Undoes: 16
+Total: 47D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-3-3.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-3-4.tiles
+Total execution time: 316877ms
+Placements: 310474
+Undoes: 310456
+Total: 620930D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-4-0.tiles
+Total execution time: 49ms
+Placements: 12
+Undoes: 0
+Total: 12D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-4-1.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-4-2.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-4-3.tiles
+Total execution time: 11139ms
+Placements: 9759
+Undoes: 9743
+Total: 19502D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/15-4-4.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-0-0.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-0-1.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-0-2.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-0-3.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-0-4.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-1-0.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-1-1.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-1-2.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-1-3.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-1-4.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-2-0.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-2-1.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-2-2.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-2-3.tiles
+Total execution time: 89ms
+Placements: 43
+Undoes: 13
+Total: 56D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-2-4.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-3-0.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-3-1.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-3-2.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-3-3.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-3-4.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-4-0.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-4-1.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-4-2.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-4-3.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/25-4-4.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/35-0-0.tiles
+D:\GoogleDrive\VU CS\Heuristics\workspace\Tiling\out\production\Tiling/configurations/35-0-1.tiles
